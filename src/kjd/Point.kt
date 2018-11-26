@@ -1,6 +1,6 @@
 package kjd
 
-class Point{
-    var x = 10
-    var y = 10
+class Point(xx:Int, yy:Int){
+    var x = xx
+    var y = yy
 }
